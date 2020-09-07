@@ -1,5 +1,5 @@
 # Priscilla  Avichinga Ungai
-#### This is a website that allows users to input paaswords,creates usernames and remembers passwords , 06/09/2020
+#### This is a website that allows users to input passwords,creates usernames and remembers passwords , 06/09/2020
 #### By **Priscilla Ungai**
 ## Description
  This is an appplication that remembers psswords for users
