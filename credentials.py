@@ -36,7 +36,4 @@ class Credetials:
         self.accounts = [ac for ac in self.accounts if not(ac.get('account_name')==account_name)]       
         print ("Account deleted successfully.")
     
-    self.formatted_name(fname, lname)
-        full_name = fname + ' ' + lname
-        return full_name.title()
 
