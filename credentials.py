@@ -35,3 +35,4 @@ class Credetials:
         # self.accounts = new_accs
         self.accounts = [ac for ac in self.accounts if not(ac.get('account_name')==account_name)]       
         print ("Account deleted successfully.")
+        
