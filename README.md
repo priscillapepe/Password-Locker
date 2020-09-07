@@ -2,7 +2,7 @@
 #### This is a website that allows users to input passwords,creates usernames and remembers passwords , 06/09/2020
 #### By **Priscilla Ungai**
 ## Description
- This is an appplication that remembers psswords for users
+ This is an appplication that remembers passwords for users
 ## Setup/Installation Requirements
 * Cloning from my Github account. 
 * Using VS code to open.
