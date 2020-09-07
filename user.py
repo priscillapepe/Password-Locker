@@ -1,4 +1,4 @@
-from Credentials import Credetials
+from credentials import Credetials
 
 class User:
     def __init__(self):
