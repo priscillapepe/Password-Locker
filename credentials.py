@@ -37,3 +37,14 @@ class Credetials:
         print ("Account deleted successfully.")
     
 
+# c = Credetials()
+# print(c.generate_password(30))
+# print(c.new_account('ig','ig_acc','p@$$w0rd'))
+# print(c.new_account('fb','facebook','@n0ther|p@$$w0rd'))
+# print("====================================================")
+# print(c.get_account_details('ig'))
+# print(c.delete_account('erty'))
+# print(c.accounts)
+
+
+
